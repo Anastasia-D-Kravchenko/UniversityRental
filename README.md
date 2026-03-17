@@ -1,5 +1,7 @@
 # University Equipment Rental System
 
+<img width="469" height="470" alt="Screenshot 2026-03-17 at 10 26 47 PM" src="https://github.com/user-attachments/assets/13adc990-3698-4435-8eeb-495466765b7f" />
+
 ## Project Overview
 A console application built in C# to manage university equipment rentals. It supports registering users and equipment, handling rental limits, tracking overdue items, and calculating penalties.
 
